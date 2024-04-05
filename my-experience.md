@@ -1,3 +1,8 @@
+---
+title: "My experience"
+permalink: /my-experience
+---
+
 If you are interested in the hard-facts, feel free to check my
 [LinkedIn](https://www.linkedin.com/in/xaviametller/) profile. Else you
 can continue reading here more about my personal take on what have I done
