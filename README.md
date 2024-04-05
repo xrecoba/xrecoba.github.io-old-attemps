@@ -1,8 +1,3 @@
----
-title: "My own common sense"
-intro: "Ideas, opinions, thoughts and other rants about Software development"
----
-
 # About Me
 I'm Xavi Ametller. I've been developing Software since 2003 and during those years I've done my fair share of mistakes, I even learnt something from some of them. Somehow during this trip it came to me the opportunity to teach and I did like it, a lot.
 
