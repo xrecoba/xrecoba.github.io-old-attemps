@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Trainings"
 permalink: /trainings
+---
 
 ## Software Testing Workshop    
 Testing is sometimes an underrated task and I've seen my share of people
