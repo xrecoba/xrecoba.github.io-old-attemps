@@ -3,7 +3,7 @@ title: "Trainings"
 permalink: /trainings
 ---
 
-## Software Testing Workshop    
+## Software Testing Workshop     updated!
 Testing is sometimes an underrated task and I've seen my share of people
 who do it ad-hoc, even though they do it for long periods of time.
 
